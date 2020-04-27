@@ -37,8 +37,8 @@ Options:
 
 ## 开启服务
 ```
-$ cd /path/of/ipa
-$ ios-ipa-server
+$ cd /path/of/ipa # 存放ipa文件的路径
+$ ios-ipa-server # 启动服务
 
 # or
 
