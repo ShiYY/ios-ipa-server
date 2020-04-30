@@ -14,6 +14,7 @@
 * Ubuntu
 * CentOS
 * 其他平台未测试
+* Windows10下cer证书生成会失败，修改generate-certificate.sh ' /CN' 改成 '//CN' 即可
 
 # 需要
 * [nodejs](https://nodejs.org/)
