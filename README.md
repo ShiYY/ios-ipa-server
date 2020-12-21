@@ -34,6 +34,7 @@ Options:
 -V, --version             output the version number
 -p, --port <port-number>  set port for server (defaults is 1234)
 -i, --ip <ip-address>     set ip address for server (defaults is automatic getting by program)
+程序部署在阿里云时 程序读取的是服务器局域网IP 此时需要通过 -i 参数运行程序 指定服务器对外映射的IP 负责无法正常下载ipa包
 ```
 
 ## 开启服务
